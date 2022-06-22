@@ -1,5 +1,7 @@
 # Gauge indicator
 
+> This is a fork of the original [`gauge_indicator` plugin](https://pub.dev/packages/gauge_indicator) as the [original repository](https://github.com/HTD-Health/gauge_indicator) was no longer exists.
+
 Animated, highly customizable, open-source Flutter gauge indicator widgets. They use renderbox under the hood, thus ensuring high performance.
 
 ### Working web example of package [here](https://gauge-indicator.klyta.it/)
